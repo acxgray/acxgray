@@ -1,5 +1,5 @@
 # About Me
-I'm acxgray, a BS Information Technology Student, Web Developer based from Quezon City Philippines
+I'm Clarence Mostoles, a BS Information Technology Student, Web Developer based from Quezon City Philippines
 
 # Stacks
 ### Front-End
@@ -10,7 +10,7 @@ I'm acxgray, a BS Information Technology Student, Web Developer based from Quezo
 
 ### Back-End
 * Node.js
-* PHP 
+* PHP (Core, Laravel 8^)
 * MySQL
 
 ### Database
