@@ -1,5 +1,5 @@
 # About Me
-I'm Clarence Mostoles, a BS Information Technology Student, Web Developer based from Quezon City Philippines
+a BS Information Technology Student, Web Developer based from Quezon City Philippines
 
 # Stacks
 ### Front-End
