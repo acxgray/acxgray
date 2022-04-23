@@ -1,5 +1,5 @@
 # About Me
-a BS Information Technology Student, Web Developer based from Quezon City Philippines
+a 4th Year BS Information Technology Student, Back-end Web Developer based from Quezon City, Philippines
 
 # Stacks
 ### Front-End
@@ -10,7 +10,7 @@ a BS Information Technology Student, Web Developer based from Quezon City Philip
 
 ### Back-End
 * Node.js
-* PHP (Core, Laravel 8^)
+* PHP (Framework: Laravel)
 * MySQL
 
 ### Database
