@@ -10,7 +10,7 @@ I'm a 4th Year BS Information Technology Student and Back-end Web Developer base
 
 ### Back-End
 * Node.js
-* PHP (Framework: Laravel)
+* PHP, Laravel Framework
 * MySQL
 
 ### Database
