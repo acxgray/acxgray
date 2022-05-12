@@ -1,5 +1,5 @@
 # About Me
-a 4th Year BS Information Technology Student, Back-end Web Developer based from Quezon City, Philippines
+I'm a 4th Year BS Information Technology Student and Back-end Web Developer based from Quezon City, Philippines. Currently learning and advancing on MERN Stack. I want to learn more by building scalable apps/systems and to be trained also.
 
 # Stacks
 ### Front-End
