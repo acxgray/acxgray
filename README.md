@@ -10,6 +10,12 @@ I'm a 4th Year BS Information Technology Student and Back-end Web Developer base
 </p>
 <br><br>
 
+# 📃Projects
+- [OSIS: Online Student Information System for Quezon City University (Capstone Project)](https://qcusis.me)
+  - Tech Stack: HTML, CSS, JavaScript, jQuery, Laravel Framework, PHP, Bootstrap, MySQL
+- Inventory Management System (On-going)
+  - Tech Stack: HTML, CSS, JavaScript, jQuery, Laravel Framework, PHP, Bootstrap, MySQL
+
 # 🛡 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acxgray&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 <br><br>
