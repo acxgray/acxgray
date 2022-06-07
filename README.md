@@ -15,6 +15,7 @@ I'm a 4th Year BS Information Technology Student and Back-end Web Developer base
   - Tech Stack: HTML, CSS, JavaScript, jQuery, Laravel Framework, PHP, Bootstrap, MySQL
 - Inventory Management System (On-going)
   - Tech Stack: HTML, CSS, JavaScript, jQuery, Laravel Framework, PHP, Bootstrap, MySQL
+<br><br>
 
 # 🛡 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acxgray&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
