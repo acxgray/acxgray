@@ -1,5 +1,5 @@
 # ℹ About Me
-I'm a 4th Year BS Information Technology Student and Back-end Web Developer based from Quezon City, Philippines. Currently learning and advancing on MERN Stack. I want to learn more by building scalable apps/systems and to be trained also.
+I'm Clarence, a BS Information Technology (BSIT) Graduate and Web Developer based from Quezon City, Philippines. Currently learning and focusing on MERN Stack. I want to learn more by building scalable apps/systems and to be trained also.
 <br><br>
 
 # ✅ Skills
@@ -22,4 +22,4 @@ I'm a 4th Year BS Information Technology Student and Back-end Web Developer base
 <br><br>
 
 # 📬Contact
-To be Added
+[LinkedIn](https://www.linkedin.com/in/nedmostoles)
