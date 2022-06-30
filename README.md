@@ -22,4 +22,4 @@ I'm Clarence, a BS Information Technology (BSIT) Graduate and Web Developer base
 <br><br>
 
 # 📬Contact
-[LinkedIn](https://www.linkedin.com/in/nedmostoles)
+- [LinkedIn](https://www.linkedin.com/in/nedmostoles)
