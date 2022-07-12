@@ -13,8 +13,7 @@ I'm Clarence, a BS Information Technology (BSIT) Graduate and Web Developer base
 # 📃Projects
 - [OSIS: Online Student Information System for Quezon City University (Capstone Project)](https://qcusis.me)
   - Tech Stack: HTML, CSS, JavaScript, jQuery, Laravel Framework, PHP, Bootstrap, MySQL
-- Inventory Management System (On-going)
-  - Tech Stack: HTML, CSS, JavaScript, jQuery, Laravel Framework, PHP, Bootstrap, MySQL
+
 <br><br>
 
 # 🛡 My Stats
