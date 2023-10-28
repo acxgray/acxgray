@@ -1,5 +1,5 @@
 # ℹ About Me
-I'm Clarence, a BS Information Technology (BSIT) Graduate and Web Developer based from Quezon City, Philippines. Currently learning and focusing on MERN Stack. I want to learn more by building scalable apps/systems and to be trained also.
+I'm acxgray, a System Developer and BS Information Technology (BSIT) Graduate from Quezon City, Philippines. Currently learning and focusing on MERN Stack. I want to learn more by building scalable apps/systems and to be trained also.
 <br><br>
 
 # ✅ Skills
