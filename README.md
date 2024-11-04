@@ -1,11 +1,11 @@
 # ℹ About Me
-I'm acxgray, a System Developer and BS Information Technology (BSIT) Graduate from Quezon City, Philippines. Currently learning and focusing on MERN Stack. I want to learn more by building scalable apps/systems and to be trained also.
+I'm Ned Clarence Mostoles, a Junior Systems Developer based in the Philippines and BS Information Technology (BSIT) Graduate from Caloocan City, Philippines. Seeking out new technologies by continuous learning in order to stay up to date.
 <br><br>
 
-# ✅ Skills
+# ✅ Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,react,nodejs,mysql,mongodb,git,github,nginx,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,jquery,spring,php,laravel,react,nodejs,express,mysql,mongodb,npm,git,github,nginx,linux,bash,python,ubuntu,postman,vscode,wordpress&perline=10&theme=dark" />
   </a>
 </p>
 <br><br>
@@ -17,7 +17,7 @@ I'm acxgray, a System Developer and BS Information Technology (BSIT) Graduate fr
 <br><br>
 
 # 🛡 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acxgray&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+![Ned's GitHub stats](https://github-readme-stats.vercel.app/api?username=acxgray&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 <br><br>
 
 # 📬Contact
