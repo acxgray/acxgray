@@ -11,7 +11,7 @@ I'm Ned Clarence Mostoles, a Junior Systems Developer based in the Philippines a
 <br><br>
 
 # 📃Projects
-- [OSIS: Online Student Information System for Quezon City University (Capstone Project)](https://qcusis.me)
+- OSIS: Online Student Information System for Quezon City University (Capstone Project)
   - Tech Stack: HTML, CSS, JavaScript, jQuery, Laravel Framework, PHP, Bootstrap, MySQL
 
 <br><br>
